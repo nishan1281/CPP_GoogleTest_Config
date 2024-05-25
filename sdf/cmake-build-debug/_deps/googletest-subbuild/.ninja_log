@@ -1,0 +1,23 @@
+# ninja log v5
+1	57	7383439364276335	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e21eba52b7a48e4
+1	57	7383439364276335	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e21eba52b7a48e4
+57	3213	7383439395815242	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	aeceb6a7fbff3aef
+57	3213	7383439395815242	googletest-populate-prefix/src/5376968f6948923e2411081fd9372e71a59d8e77.zip	aeceb6a7fbff3aef
+57	3213	7383439395815242	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	aeceb6a7fbff3aef
+57	3213	7383439395815242	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/5376968f6948923e2411081fd9372e71a59d8e77.zip	aeceb6a7fbff3aef
+3214	3270	7383439396407936	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	fe9edf1cd46a5368
+3214	3270	7383439396407936	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	fe9edf1cd46a5368
+3270	3321	7383439396910185	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	cff0b3f86aea32a
+3270	3321	7383439396910185	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	cff0b3f86aea32a
+3321	3373	7383439397427644	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9bef5cbcada4dcb1
+3321	3373	7383439397427644	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	9bef5cbcada4dcb1
+3373	3425	7383439397958431	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d051ca8df9df716f
+3373	3425	7383439397958431	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d051ca8df9df716f
+3425	3475	7383439398458361	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	edf96c0315e6b9c4
+3425	3475	7383439398458361	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	edf96c0315e6b9c4
+3475	3525	7383439398958477	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	652ee10d62300d80
+3475	3525	7383439398958477	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	652ee10d62300d80
+3525	3600	7383439399708529	CMakeFiles/googletest-populate-complete	80ae7a9fa0471304
+3525	3600	7383439399708529	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	80ae7a9fa0471304
+3525	3600	7383439399708529	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	80ae7a9fa0471304
+3525	3600	7383439399708529	C:/Users/nisha/Documents/SoftwareDevelopment/tdd/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	80ae7a9fa0471304

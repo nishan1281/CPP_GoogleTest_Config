@@ -1,0 +1,9 @@
+# ninja log v5
+3	268	7383425885205124	CMakeFiles/tdd.dir/main.cpp.obj	63860dbcb1269f60
+269	361	7383425886111550	tdd.exe	bc67f857a10ddee7
+27	757	7383439509812540	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d8bd8e39c3e9d1b
+5	791	7383439510144878	CMakeFiles/tdd.dir/main.cpp.obj	b09eeec0ab13955b
+15	5117	7383439553253561	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	63385faab10efbd1
+5119	7222	7383439574448391	lib/libgtest.a	5fa4331b920f84ef
+7222	7297	7383439575219636	lib/libgtest_main.a	7ca393c652eb4183
+7297	9895	7383439601119751	tdd.exe	4e87ab84dd659edf
